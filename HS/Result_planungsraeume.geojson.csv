@@ -1,0 +1,448 @@
+Name,PLR
+Stülerstraße,01011101
+Großer Tiergarten,01011102
+Lützowstraße,01011103
+Körnerstraße,01011104
+Nördlicher Landwehrkanal,01011105
+Wilhelmstraße,01011201
+Unter den Linden Nord,01011202
+Unter den Linden Süd,01011203
+Leipziger Straße,01011204
+Charitéviertel,01011301
+Oranienburger Straße,01011302
+Alexanderplatzviertel,01011303
+Karl-Marx-Allee,01011304
+Heine-Viertel West,01011305
+Heine-Viertel Ost,01011306
+Invalidenstraße,01011401
+Arkonaplatz,01011402
+Huttenkiez,01022101
+Beusselkiez,01022102
+Westhafen,01022103
+Emdener Straße,01022104
+Zwinglistraße,01022105
+Elberfelder Straße,01022106
+Stephankiez,01022201
+Heidestraße,01022202
+Lübecker Straße,01022203
+Thomasiusstraße,01022204
+Zillesiedlung,01022205
+Lüneburger Straße,01022206
+Hansaviertel,01022207
+Soldiner Straße,01033101
+Gesundbrunnen,01033102
+Brunnenstraße,01033201
+Humboldthain Süd,01033202
+Humboldthain Nordwest,01033203
+Rehberge,01044101
+Schillerpark,01044102
+Westliche Müllerstraße,01044103
+Reinickendorfer Straße,01044201
+Sparrplatz,01044202
+Leopoldplatz,01044203
+Askanischer Platz,02010101
+Mehringplatz,02010102
+Moritzplatz,02010103
+Wassertorplatz,02010104
+Gleisdreieck/Entwicklungsgebiet,02020201
+Rathaus Yorckstraße,02020202
+Viktoriapark,02020203
+Urbanstraße,02020204
+Chamissokiez,02020205
+Graefekiez,02020206
+Oranienplatz,02030301
+Lausitzer Platz,02030302
+Reichenberger Straße,02030401
+Wrangelkiez,02030402
+Barnimkiez,02040501
+Friedenstraße,02040502
+Richard-Sorge-Viertel,02040503
+Andreasviertel,02040701
+Weberwiese,02040702
+Wriezener Bahnhof/Entwicklungsgebiet,02040703
+Hausburgviertel,02050601
+Samariterviertel,02050602
+Traveplatz,02050801
+Boxhagener Platz,02050802
+Stralauer Kiez,02050803
+Stralauer Halbinsel,02050804
+Bucher Forst,03010101
+Buch,03010102
+Lietzengraben,03010104
+Blankenfelde,03020203
+Niederschönhausen,03020209
+Herthaplatz,03020210
+Buchholz,03020307
+Karow Nord,03030405
+Alt-Karow,03030406
+Blankenburg,03030711
+Heinersdorf,03030715
+Märchenland,03030716
+Rosenthal,03040508
+Wilhelmsruh,03040512
+Schönholz,03040513
+Pankow Zentrum,03040614
+Pankow Süd,03040818
+Gustav-Adolf-Straße,03050919
+Weißer See,03050920
+Weißenseer Spitze,03050923
+Behaimstraße,03050924
+Komponistenviertel Weißensee,03050925
+Rennbahnstraße,03051017
+Buschallee,03051021
+Hansastraße,03051022
+Arnimplatz,03061126
+Falkplatz,03061131
+Humannplatz,03061227
+Erich-Weinert-Straße,03061228
+Helmholtzplatz,03061332
+Greifswalder Straße,03061429
+Volkspark Prenzlauer Berg,03061430
+Anton-Saefkow-Park,03061434
+Conrad-Blenkle-Straße,03061435
+Eldenaer Straße,03061441
+Teutoburger Platz,03071536
+Kollwitzplatz,03071537
+Thälmannpark,03071633
+Winsstraße,03071638
+Bötzowstraße,03071639
+Jungfernheide,04010101
+Plötzensee,04010102
+Paul-Hertz-Siedlung,04010103
+Olympiagelände,04020204
+Siedlung Ruhleben,04020205
+Angerburger Allee,04020206
+Flatowallee,04020207
+Kranzallee,04020208
+Eichkamp,04020209
+Park Ruhwald,04020310
+Reichsstraße,04020311
+Branitzer Platz,04020312
+Königin-Elisabeth-Straße,04020313
+Messegelände,04020314
+Schloßgarten,04030415
+Klausenerplatz,04030416
+Schloßstraße,04030417
+Tegeler Weg,04030518
+Kaiserin-Augusta-Allee,04030519
+Alt-Lietzow,04030620
+Spreestadt,04030621
+Richard-Wagner-Straße,04030622
+Ernst-Reuter-Platz,04030623
+Lietzensee,04030724
+Amtsgerichtsplatz,04030725
+Droysenstraße,04030726
+Karl-August-Platz,04030827
+Savignyplatz,04030828
+Hindemithplatz,04030929
+George-Grosz-Platz,04030930
+Breitscheidplatz,04030931
+Halensee,04031032
+Güterbahnhof Grunewald,04041133
+Bismarckallee,04041134
+Hundekehle,04041135
+Hagenplatz,04041136
+Flinsberger Platz,04041137
+Kissinger Straße,04041238
+Stadion Wilmersdorf,04041239
+Messelpark,04041240
+Breite Straße,04041241
+Schlangenbader Straße,04041342
+Binger Straße,04041343
+Rüdesheimer Platz,04041344
+Eisenzahnstraße,04051445
+Preußenpark,04051446
+Ludwigkirchplatz,04051447
+Schaperstraße,04051448
+Rathaus Wilmersdorf,04051549
+Leon-Jessel-Platz,04051550
+Brabanter Platz,04051551
+Nikolsburger Platz,04051652
+Prager Platz,04051653
+Wilhelmsaue,04051654
+Babelsberger Straße,04051655
+Hildegardstraße,04051656
+Forst Grunewald,04061757
+Hakenfelde Nord,05010101
+Goltzstraße,05010102
+Amorbacher Weg,05010103
+Griesingerstraße,05010204
+An der Tränke,05010205
+Gütersloher Weg,05010206
+Darbystraße,05010207
+Germersheimer Platz,05010208
+An der Kappe,05010209
+Eckschanze,05010310
+Eiswerder,05010311
+Kurstraße,05010312
+Ackerstraße,05010313
+Carl-Schurz-Straße,05010314
+Freiheit,05010339
+Isenburger Weg,05020415
+Am Heideberg,05020416
+Staakener Straße,05020417
+Spandauer Straße,05020418
+Magistratsweg,05020419
+Werkstraße,05020420
+Döberitzer Weg,05020521
+Pillnitzer Weg,05020522
+Maulbeerallee,05020523
+Weinmeisterhornweg,05020524
+Borkumer Straße,05020625
+Adamstraße,05020626
+Tiefwerder,05020627
+Graetschelsteig,05020628
+Börnicker Straße,05020629
+Zitadellenweg,05030730
+Gartenfelder Straße,05030731
+Rohrdamm,05030832
+Motardstraße,05030833
+Alt-Gatow,05040934
+Groß-Glienicker Weg,05040935
+Jägerallee,05040936
+Kladower Damm,05040937
+Kafkastraße,05040938
+Fichtenberg,06010101
+Schloßstraße,06010102
+Markelstraße,06010103
+Munsterdamm,06010204
+Südende,06010205
+Stadtpark,06010206
+Mittelstraße,06010207
+Bergstraße,06010208
+Feuerbachstraße,06010209
+Bismarckstraße,06010210
+Alt-Lankwitz,06020301
+Komponistenviertel Lankwitz,06020302
+Lankwitz Kirche,06020303
+Kaiser-Wilhelm-Straße,06020304
+Gemeindepark Lankwitz,06020305
+Lankwitz Süd,06020306
+Thermometersiedlung,06020407
+Lichterfelde Süd,06020408
+Königsberger Straße,06020409
+Oberhofer Platz,06020410
+Schütte-Lanz-Straße,06020411
+Berlepschstraße,06030501
+Zehlendorf Süd,06030502
+Zehlendorf Mitte,06030503
+Teltower Damm,06030504
+Botanischer Garten,06030605
+Hindenburgdamm,06030606
+Goerzwerke,06030607
+Schweizer Viertel,06030608
+Augustaplatz,06030609
+Lichterfelde West,06030610
+Wannsee,06040701
+Düppel,06040702
+Nikolassee,06040703
+Krumme Lanke,06040804
+Fischerhüttenstraße,06040805
+Fischtal,06040806
+Zehlendorf Eiche,06040807
+Hüttenweg,06040808
+Thielallee,06040809
+Dahlem,06040810
+Wittenbergplatz/Viktoria-Luise-Platz,07010101
+Nollendorfplatz,07010102
+Barbarossaplatz,07010103
+Dennewitzplatz,07010104
+Bayerischer Platz,07020201
+Volkspark (Rudolf-Wilde-Park),07020202
+Kaiser-Wilhelm-Platz,07020203
+Schöneberger Insel,07020204
+Friedenau,07030301
+Ceciliengärten,07030302
+Grazer Platz,07030303
+Neu-Tempelhof,07040401
+Lindenhofsiedlung,07040402
+Manteuffelstraße,07040403
+Marienhöhe,07040404
+Rathaus Tempelhof,07040405
+Germaniagarten,07040406
+Rathausstraße,07050501
+Fritz-Werner-Straße,07050502
+Eisenacher Straße,07050503
+Imbrosweg,07050504
+Hundsteinweg,07050505
+Birnhornweg,07050506
+Marienfelder Allee Nordwest,07060601
+Kirchstraße,07060602
+Marienfelde Nordost,07060603
+Marienfelde Süd,07060604
+Kettinger Straße/Schillerstraße,07070701
+Alt-Lichtenrade/Töpchiner Weg,07070702
+John-Locke-Straße,07070703
+Nahariyastraße,07070704
+Franziusweg/Rohrbachstraße,07070705
+Horstwalder Straße/Paplitzer Straße,07070706
+Wittelsbacherstraße,07070707
+Hasenheide,08010115
+Wissmannstraße,08010116
+Schillerpromenade,08010117
+Silbersteinstraße,08010118
+Flughafenstraße,08010211
+Rollberg,08010212
+Körnerpark,08010213
+Glasower Straße,08010214
+Reuterkiez,08010301
+Bouchéstraße,08010302
+Donaustraße,08010303
+Rixdorf,08010404
+Hertzbergplatz,08010405
+Treptower Straße Nord,08010406
+Gewerbegebiet Ederstraße,08010407
+Weiße Siedlung,08010508
+Schulenburgpark,08010509
+Gewerbegebiet Köllnische Heide,08010510
+Buschkrugallee Nord,08020619
+Tempelhofer Weg,08020620
+Mohriner Allee Nord,08020621
+Parchimer Allee,08020622
+Ortolanweg,08020623
+Britzer Garten,08020624
+Handwerker-Siedlung,08020625
+Buckow West,08020726
+Buckow Mitte,08020727
+Buckow Ost,08020728
+Gropiusstadt Nord,08030829
+Gropiusstadt Süd,08030830
+Gropiusstadt Ost,08030831
+Goldhähnchenweg,08040932
+Vogelviertel Süd,08040933
+Vogelviertel Nord,08040934
+Blumenviertel,08041035
+Zittauer Straße,08041036
+Alt-Rudow,08041037
+Waßmannsdorfer Chaussee,08041038
+Frauenviertel,08041039
+Waltersdorfer Chaussee Ost,08041040
+Elsenstraße,09010101
+Am Treptower Park Nord,09010102
+Am Treptower Park Süd,09010201
+Köpenicker Landstraße,09010202
+Baumschulenstraße,09010301
+Späthsfelde,09010302
+Johannisthal West,09010401
+Johannisthal Ost,09010402
+Oberschöneweide West,09020501
+Oberschöneweide Ost,09020502
+Schnellerstraße,09020601
+Oberspree,09020602
+Adlershof West,09020701
+Adlershof Ost,09020702
+Spindlersfeld,09020801
+Köllnische Vorstadt,09020802
+Dorf Altglienicke,09030901
+Wohngebiet II,09030902
+Kölner Viertel,09030903
+Bohnsdorf,09031001
+Grünau,09031101
+Karolinenhof,09031201
+Schmöckwitz/Rauchfangswerder,09031202
+Kietzer Feld/Nachtheide,09041301
+Wendenschloß,09041302
+Allende I,09041401
+Allende II,09041402
+Altstadt Kietz,09041501
+Müggelheim,09041601
+Hirschgarten,09051701
+Bölschestraße,09051702
+Rahnsdorf/Hessenwinkel,09051801
+Dammvorstadt,09051901
+Köpenick Nord,09052001
+Marzahn West,10010101
+Havemannstraße,10010102
+Gewerbegebiet Bitterfelder Straße,10010203
+Wuhletalstraße,10010204
+Marzahn Ost,10010205
+Ringkolonnaden,10010206
+Marzahner Promenade,10010207
+Marzahner Chaussee,10010308
+Springpfuhl,10010309
+Alt-Marzahn,10010310
+Landsberger Tor,10010311
+Alte Hellersdorfer Straße,10020412
+Gut Hellersdorf,10020413
+Helle Mitte,10020414
+Hellersdorfer Promenade,10020415
+Böhlener Straße,10020416
+Adele-Sandrock-Straße,10020517
+Schleipfuhl,10020518
+Boulevard Kastanienallee,10020519
+Kaulsdorf Nord II,10020620
+Gelbes Viertel,10020621
+Kaulsdorf Nord I,10020622
+Rotes Viertel,10020623
+Oberfeldstraße,10030724
+Buckower Ring,10030725
+Alt-Biesdorf,10030726
+Biesdorf Süd,10030727
+Kaulsdorf Nord,10040828
+Alt-Kaulsdorf,10040829
+Kaulsdorf Süd,10040830
+Mahlsdorf Nord,10040931
+Alt-Mahlsdorf,10040932
+Mahlsdorf Süd,10040933
+Dorf Malchow,11010101
+Dorf Wartenberg,11010102
+Dorf Falkenberg,11010103
+Falkenberg Ost,11010204
+Falkenberg West,11010205
+Wartenberg Süd,11010206
+Wartenberg Nord,11010207
+Zingster Straße Ost,11010308
+Zingster Straße West,11010309
+Mühlengrund,11010310
+Malchower Weg,11020411
+Hauptstraße,11020412
+Orankesee,11020513
+Große-Leege-Straße,11020514
+Landsberger Allee,11020515
+Weiße Taube,11020516
+Hohenschönhausener Straße,11030617
+Fennpfuhl West,11030618
+Fennpfuhl Ost,11030619
+Herzbergstraße,11030720
+Rüdigerstraße,11030721
+Frankfurter Allee Süd,11030824
+Victoriastadt,11040925
+Weitlingstraße,11040926
+Rosenfelder Ring,11041022
+Gensinger Straße,11041023
+Tierpark,11041027
+Sewanstraße,11041128
+Rummelsburg,11051229
+Karlshorst West,11051330
+Karlshorst Nord,11051331
+Karlshorst Süd,11051332
+Breitkopfbecken,12103115
+Hausotterplatz,12103116
+Letteplatz,12103117
+Teichstraße,12103218
+Schäfersee,12103219
+Humboldtstraße,12103220
+Waldidyll/Flughafensee,12214125
+Tegel Süd,12214126
+Reinickes Hof,12214421
+Klixstraße,12214422
+Mellerbogen,12214423
+Scharnweberstraße,12214424
+Alt-Tegel,12214527
+Tegeler Forst,12214528
+Konradshöhe/Tegelort,12224229
+Heiligensee,12224230
+Hermsdorf,12231101
+Frohnau,12231102
+Wittenau Süd,12301203
+Wittenau Nord,12301204
+Waidmannslust,12301205
+Lübars,12301206
+Schorfheidestraße,12302107
+Märkisches Zentrum,12302108
+Treuenbrietzener Straße,12302109
+Dannenwalder Weg,12302110
+Lübarser Straße,12302211
+Rollbergesiedlung,12302212
+Borsigwalde,12304313
+Ziekowstraße/Freie Scholle,12304314
